@@ -1,1 +1,10 @@
 
+#include<iostream>
+
+Using namespace std;
+
+String main(){
+char a;
+Cout<<"what is your Name: ?";
+cin>>a
+}
