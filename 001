@@ -2,9 +2,12 @@
 #include<iostream>
 
 Using namespace std;
+#include<string>
 
-String main(){
-char a;
+Int main(){
+String a;
 Cout<<"what is your Name: ?";
-cin>>a
+cin>>a;
+Cout<<"Name: " <<a;
+return 0;
 }
